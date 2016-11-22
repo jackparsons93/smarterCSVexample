@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  itemid: MyString
+  stock_status: MyString
+  sku: MyString
+  date_updated: MyString
+
+two:
+  itemid: MyString
+  stock_status: MyString
+  sku: MyString
+  date_updated: MyString
